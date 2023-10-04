@@ -1,1 +1,2 @@
 Ya estamos de nuevo en la ram
+Compruebo que las columnas del "Listado de configuracion" corresponden al listado de la configuracion del cliente Hash
